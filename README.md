@@ -1,4 +1,5 @@
 # URL-Shrinker
 This is a web app that shrinks the long urls. Made using NodeJS, ExpressJS, EJS and MongoDB.
 
-![image](https://user-images.githubusercontent.com/90465505/218245700-719e309f-48bd-41a9-914f-1806d744c335.png)
+![Screenshot (417)](https://user-images.githubusercontent.com/90465505/218245788-19ac5e0f-4cbd-4702-8d18-344cfc6690cf.png)
+
